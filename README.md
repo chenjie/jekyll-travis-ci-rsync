@@ -18,3 +18,6 @@ The purpose of this repo is to give you an example of integrating Jekyll, GitHub
 ## Other Refs
 * If you want to use Git instead of rsync, please checkout [travis-jekyll-git](https://github.com/felixrieseberg/travis-jekyll-git).
 * Or if you want to use FTP instead, please checkout [Ajay Karwal's blog post](https://ajaykarwal.com/deploying-jekyll-using-travis-ci/).
+
+## License
+[MIT](LICENSE)
