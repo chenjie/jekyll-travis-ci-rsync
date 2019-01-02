@@ -14,6 +14,7 @@ The purpose of this repo is to give you an example of integrating Jekyll, GitHub
   - https://docs.travis-ci.com/user/deployment/pages/
   - https://docs.travis-ci.com/user/languages/ruby/
   - https://docs.travis-ci.com/user/encrypting-files/
+  - https://devhints.io/travis
 
 ## Other Refs
 * If you want to use Git instead of rsync, please checkout [travis-jekyll-git](https://github.com/felixrieseberg/travis-jekyll-git).
